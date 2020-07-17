@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>e (167).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\e (167).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maleable_tunnerer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>249</ymin>
+			<xmax>609</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+</annotation>

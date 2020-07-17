@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>h (204).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\h (204).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>implantableport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1095</xmin>
+			<ymin>685</ymin>
+			<xmax>2336</xmax>
+			<ymax>1634</ymax>
+		</bndbox>
+	</object>
+</annotation>

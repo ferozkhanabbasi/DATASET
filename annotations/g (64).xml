@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>g (64).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\g (64).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hickman_catherer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1456</xmin>
+			<ymin>642</ymin>
+			<xmax>2230</xmax>
+			<ymax>1809</ymax>
+		</bndbox>
+	</object>
+</annotation>

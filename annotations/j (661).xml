@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>j (661).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\j (661).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nokor_non_coring_needle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1176</xmin>
+			<ymin>1222</ymin>
+			<xmax>1906</xmax>
+			<ymax>2692</ymax>
+		</bndbox>
+	</object>
+</annotation>

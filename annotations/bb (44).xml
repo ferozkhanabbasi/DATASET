@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bb (44).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\bb (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air_guard_valved_introducer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1415</xmin>
+			<ymin>727</ymin>
+			<xmax>2456</xmax>
+			<ymax>1720</ymax>
+		</bndbox>
+	</object>
+</annotation>

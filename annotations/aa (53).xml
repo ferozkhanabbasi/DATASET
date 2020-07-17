@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>aa (53).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\aa (53).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>statlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>1002</ymin>
+			<xmax>1661</xmax>
+			<ymax>2487</ymax>
+		</bndbox>
+	</object>
+</annotation>

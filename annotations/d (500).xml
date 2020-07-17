@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d (500).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\d (500).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>precision_tunneler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>824</xmin>
+			<ymin>513</ymin>
+			<xmax>1551</xmax>
+			<ymax>3032</ymax>
+		</bndbox>
+	</object>
+</annotation>

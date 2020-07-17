@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>i (638).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\i (638).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>syringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>706</xmin>
+			<ymin>748</ymin>
+			<xmax>2602</xmax>
+			<ymax>1481</ymax>
+		</bndbox>
+	</object>
+</annotation>

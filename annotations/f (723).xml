@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>f (723).jpg</filename>
+	<path>C:\Users\Feroz\Desktop\FYP_stealingDeteciton-master\data\images\f (723).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>needle_degree_90</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1219</xmin>
+			<ymin>698</ymin>
+			<xmax>2163</xmax>
+			<ymax>1717</ymax>
+		</bndbox>
+	</object>
+</annotation>
